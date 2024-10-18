@@ -9,3 +9,4 @@ and if you need upgrade any cards but name like this
 and query id into init_data.txt
 
 
+
