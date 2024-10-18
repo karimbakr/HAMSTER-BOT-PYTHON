@@ -9,4 +9,7 @@ and if you need upgrade any cards but name like this
 and query id into init_data.txt
 
 
+tutorial video: https://youtu.be/GwVkYtiUj3A?si=Ek66rDLKdQKgUsLy
 
+get query id Hamster: 
+https://youtu.be/LcTo07Mlijo?si=oiv1peFozyBmZHpq
