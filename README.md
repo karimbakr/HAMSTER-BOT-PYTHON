@@ -1,0 +1,2 @@
+# HAMSTER-BOT-PYTHON
+AUTO Upgrade Cards 
