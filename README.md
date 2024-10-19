@@ -1,4 +1,7 @@
 # HAMSTER-BOT-PYTHON
+
+https://t.me/hamsTer_kombat_bot/start?startapp=kentId707813877
+
 AUTO Upgrade Cards 
 Chose Name Cards
 like this Card Ico Breakthrough
@@ -10,6 +13,9 @@ and query id into init_data.txt
 
 and card grab auto higher 'profitPerHourDelta'
 Saved automatic to txt file 
+
+
+
 tutorial video: https://youtu.be/GwVkYtiUj3A?si=Ek66rDLKdQKgUsLy
 
 get query id Hamster: 
