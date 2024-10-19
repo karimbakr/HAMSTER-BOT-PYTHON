@@ -8,7 +8,8 @@ and if you need upgrade any cards but name like this
 
 and query id into init_data.txt
 
-
+and card grab auto higher 'profitPerHourDelta'
+Saved automatic to txt file 
 tutorial video: https://youtu.be/GwVkYtiUj3A?si=Ek66rDLKdQKgUsLy
 
 get query id Hamster: 
